@@ -1,0 +1,14 @@
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/pr1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/pr1.AssemblyInfoInputs.cache
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/pr1.AssemblyInfo.cs
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/pr1.csproj.CoreCompileInputs.cache
+/Users/savvinovaalisa/Desktop/pr1/bin/Debug/net9.0/pr1
+/Users/savvinovaalisa/Desktop/pr1/bin/Debug/net9.0/pr1.deps.json
+/Users/savvinovaalisa/Desktop/pr1/bin/Debug/net9.0/pr1.runtimeconfig.json
+/Users/savvinovaalisa/Desktop/pr1/bin/Debug/net9.0/pr1.dll
+/Users/savvinovaalisa/Desktop/pr1/bin/Debug/net9.0/pr1.pdb
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/pr1.dll
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/refint/pr1.dll
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/pr1.pdb
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/pr1.genruntimeconfig.cache
+/Users/savvinovaalisa/Desktop/pr1/obj/Debug/net9.0/ref/pr1.dll
